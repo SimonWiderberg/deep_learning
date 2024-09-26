@@ -8,3 +8,4 @@ HA1/test
 HA1/train_all
 HA1/small_train
 HA1/small_val
+*.ckpt
